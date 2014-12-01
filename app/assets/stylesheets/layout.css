@@ -1,0 +1,55 @@
+/*
+* Skeleton V1.2
+* Copyright 2011, Dave Gamache
+* www.getskeleton.com
+* Free to use under the MIT license.
+* http://www.opensource.org/licenses/mit-license.php
+* 6/20/2012
+*/
+.container{
+	margin-top: 40px;
+
+}
+body,h1,h2{
+	font-family: "HelveticaNeue-Light","Helvetica Neue Light","Helvetica Neue",Helvetica,Arial,sans-serif; 
+	font-weight: 300;
+}
+.intro{
+  font-family: Georgia,serif;
+  background: none repeat scroll 0 0 #da5d5c;
+  colour: #fff;
+  border-bottom: 4px solid #bd403a;
+  padding: 5px;
+  font-size: 18px;
+  line-height: 1.5;
+
+}
+.post{
+	border-bottom: 1px soild #eee;
+	padding-bottom: 10px;
+	margin-bottom: 20px;
+}
+.post p{
+	margin-bottom: 10px;
+}
+hr{
+	border: :none;
+	height: 6px;
+	background:#ebebeb;
+	margin:20px 0;
+
+}
+.comment{
+	margin-bottom: 20px;
+	border: 1px solid #eee;
+	background: #f9f9f9;
+	width:500px;
+	padding:10px;
+}
+h4{
+	margin-bottom:10px;
+}
+textarea{
+	width:500px;
+	height:200px;
+}
